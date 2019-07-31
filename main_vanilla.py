@@ -23,7 +23,6 @@ import math
 import matplotlib.pyplot as plt
 plt.style.use('ggplot')
 from agents.dpg_mlp import DPG_MLP
-from agents.dpg_lstm import DPG_LSTM
 from agents.mpt import MPT
 from agents.UCRP import UCRP
 import datetime
