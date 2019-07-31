@@ -11,3 +11,5 @@ Provided are:
 3) Agents include: DPG, Uniformly Constant Rebalancing Portfolio (UCRP) and the out-of-sample Minimum Variance Optimisation
 
 4) Misc: Some data cleaning, visulisation and checking
+
+Results will not be spectacular due to lack of risk control.
