@@ -14,8 +14,8 @@ Provided are:
 
 Results will not be spectacular due to lack of risk control.
 
-![State](images/state.JPG){:height="50%" width="50%"}
+![State](images/state.JPG)
 
-![Action and Reward](images/action_reward.JPG){:height="50%" width="50%"}
+![Action and Reward](images/action_reward.JPG)
 
-![Time line of events](images/time_line.JPG){:height="50%" width="50%"}
+![Time line of events](images/time_line.JPG)
