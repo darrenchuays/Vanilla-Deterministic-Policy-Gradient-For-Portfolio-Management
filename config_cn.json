@@ -1,0 +1,12 @@
+{
+	"session":{
+		"start_date":"2010-01-04",
+		"end_date":"2018-12-31",
+		"market_types":"CN",
+	    "num_assets":8,
+		"features":["close","high","low","open"],
+		"agents":["MLP","PG","100", 128],
+		"epochs":"30"
+
+	}
+}
